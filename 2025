@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Liang Zisheng - Professional Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(to right, #e8eaf6, #f5f5f5);
+      color: #333;
+    }
+    header {
+      background-color: #1a237e;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+    .container {
+      max-width: 960px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+    h2 {
+      font-size: 1.5rem;
+      color: #1a237e;
+      border-bottom: 2px solid #c5cae9;
+      padding-bottom: 8px;
+      margin-top: 40px;
+    }
+    p, li {
+      line-height: 1.7;
+      margin: 10px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1a237e;
+      color: #fff;
+      font-size: 0.9rem;
+    }
+    .highlight {
+      font-weight: 500;
+      color: #3949ab;
+    }
+    .certificate-link {
+      display: inline-block;
+      margin-top: 4px;
+      padding: 6px 12px;
+      background-color: #1a237e;
+      color: white;
+      border-radius: 4px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    .certificate-link:hover {
+      background-color: #3949ab;
+    }
+  </style>
+</head>
+<body>
+  <header>Liang Zisheng - Professional Portfolio</header>
+  <div class="container">
+    <div class="section">
+      <h2>About Me</h2>
+      <p><span class="highlight">Phone:</span> +1 6465057555</p>
+      <p><span class="highlight">Email:</span> liang_zisheng@163.com</p>
+      <p><span class="highlight">Address:</span> Room 1506, Building 7, No. 318 Suzhou Road, Luyang District, Hefei, China</p>
+      <p>Graduate student at the University of Pennsylvania, pursuing the MSSP+DA program (2025–2026), with coursework spanning data science, econometrics, and social policy.</p>
+      <p>Earned a B.A. in Economic Policy from New York University (2021–2025), graduating with Dean’s List honors and an Honor Scholar Certificate. Built strong foundations in micro/macro economics, econometrics, database design, and financial modeling.</p>
+      <p>My academic work includes an <strong>ESG portfolio study</strong> (China, US, Europe) published via Atlantis Press, and a <strong>Whirlpool China brand report</strong> analyzing global branding strategies.</p>
+      <p>Professional experience spans quantitative finance, marketing, and ESG analysis:</p>
+      <ul>
+        <li>CITIC Securities (Marketing): Developed fund marketing frameworks, ETF education, and cross-border product disclosures.</li>
+        <li>China Securities (Quant): Built factor models, designed optimization algorithms, and stress-tested portfolios using Monte Carlo simulations.</li>
+        <li>iFlytek: Conducted consumer research and campaign design, raising brand awareness by 20%.</li>
+        <li>BOE Technology: Optimized manufacturing processes, reducing production cycle time by 4.5%.</li>
+        <li>CXMT: Assisted ESG reporting, policy research, and patent management.</li>
+        <li>Whirlpool China: Collected and analyzed consumer insights to support new product development.</li>
+      </ul>
